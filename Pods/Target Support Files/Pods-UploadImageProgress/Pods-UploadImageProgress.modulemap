@@ -1,0 +1,6 @@
+framework module Pods_UploadImageProgress {
+  umbrella header "Pods-UploadImageProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
